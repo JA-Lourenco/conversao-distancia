@@ -7,6 +7,9 @@
 1. Construir Imagem: <code>docker build -t conversao-distancia -f Dockerfile .</code>
 2. Executar Container: <code>docker container run -d -p 8181:5000 conversao-distancia</code>
 
+### Imagem Docker Hub
+[jalourenco29/conversao-distancia](https://hub.docker.com/r/jalourenco29/conversao-distancia)
+
 ### Aplicação
 ![image](https://github.com/user-attachments/assets/60817afe-6f13-479c-b4b6-1d6cf0759ef6)
 
